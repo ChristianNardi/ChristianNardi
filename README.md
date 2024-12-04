@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ChristianNardi
-- 🌱 I’m currently at the second year of Degree in Computer Science in Pisa
+- 👋 Hi, I’m @ChristianNardi passionate student. 
+- 🌱 I’m currently at the second year of Degree in Computer Science in Pisa. 
 - 💞️ I’m looking to collaborate on improving open source projects
 
 <!---
